@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я Дмитрий 👋
 
-<!--
-**dparamonov-backend/dparamonov-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Backend-разработчик на Python. Студент 1 курса ГУАП (09.03.04 "Проектирование программных систем").
 
-Here are some ideas to get you started:
+## 🛠 Мой стек:
+*   **Язык:** Python
+*   **Фреймворки:** FastAPI, Aiogram
+*   **Базы данных:** PostgreSQL, SQLite
+*   **Инструменты:** Docker, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты:
+*   [Hookah Bot](https://github.com/dparamonov-backend/hookah-bot) — Telegram-бот для аренды кальянов с базой данных и FSM.
+
+## 📫 Как со мной связаться:
+*   Telegram: https://t.me/ggggggggggggggggggggg10
+*   Email: dmitriy.paramonov.dev@yandex.ru
